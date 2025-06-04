@@ -29,7 +29,7 @@
 │   │   ├── Dockerfile
 │   │   └── package.json
 │   │
-│   ├── processing-service/  # NOVO: Esqueleto do Serviço de Processamento
+│   ├── processing-service/  # Esqueleto do Serviço de Processamento
 │   │   ├── src/
 │   │   │   ├── app.js
 │   │   │   ├── config/
@@ -41,7 +41,7 @@
 │   │   ├── Dockerfile
 │   │   └── package.json
 │   │
-│   └── shared/                # NOVO: Contratos de eventos (centralizados)
+│   └── shared/                # Contratos de eventos (centralizados)
 │       └── events/
 │           ├── index.js       # Exporta todos os schemas
 │           ├── userEvents.js  # Schema para eventos de usuário
