@@ -1,5 +1,3 @@
-Diagrama
-
 .
 ├── docker-compose.yml
 ├── .env
